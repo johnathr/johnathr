@@ -1,4 +1,4 @@
-[/header.png](https://github.com/johnathr/johnathr/blob/main/header.png)
+[header.png](https://github.com/johnathr/johnathr/blob/main/header.png)
 
 ### Hi there 👋
 
