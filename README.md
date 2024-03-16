@@ -2,6 +2,6 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Project-Service](proekt-service.com)
+- 🔭 I’m currently working on [Project-Service](https://proekt-service.com)
 - 🌱 I’m currently learning C/C++
-- 📫 How to reach me: [tg](t.me/dev_kzn)
+- 📫 How to reach me: [tg](https://t.me/dev_kzn)
